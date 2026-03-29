@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎵 spoticord-self
+# 🎵 spotify-discord-bot
 
 **A self-hosted Discord bot that acts as a Spotify Connect device in your voice channels.**
 
