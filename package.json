@@ -1,0 +1,22 @@
+{
+  "name": "greg-bot",
+  "version": "1.1.0",
+  "description": "Greg - Your personal Spotify Discord bot",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/check-deps.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.6",
+    "axios": "^1.6.2",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.3.1",
+    "prism-media": "^1.3.5"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
